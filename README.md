@@ -28,4 +28,5 @@ The version I am uploading is the final version in which I do all the parsing my
 This system was built on an old version of my Java-based KISS, open-source, full-stack web development framework
 (included herein).  The latest version (and in production) of KISS is available at
 [https://kissweb.org](https://kissweb.org) or [https://github.com/blakemcbride/Kiss](https://github.com/blakemcbride/Kiss)
+Information about how to build and deploy the back-end portion of the skill is available there.
 
