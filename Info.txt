@@ -1,0 +1,118 @@
+
+The Extra Abilities Alexa Skill
+-------------------------------
+
+If you don't have an Alexa device, you can use Alexa from an Alexa
+phone app which is available for all Android and iPhones.
+
+To add the skill:  "Alexa, Enable Extra Abilities"
+This is like installing the program.  Only do this once!  
+You shouldn't have to do it ever again.
+
+To use the skill:  "Alexa, Open Extra Abilities"
+You do this whenever you wish to use the skill.
+This starts the skill.
+If you don't say anything for 14 seconds, the skill auto-exits.
+If it exits, you have to start it up again with "Alexa, Open Extra Abilities"
+
+Skill = program
+
+Stuff between "" is what you say.
+
+If you use the Alexa phone app rather than an Echo device,
+you do not say the "Alexa" word first.  You push the blue button
+instead.
+
+Within the Extra Abilities skill, at many prompts, you can say:
+
+"help"  -  receive a help message
+"back"  -  backup to the previous prompt or exit the current function
+"exit"  -  exit the Extra Abilities skill
+
+
+Things can be said in many different ways.  The examples I show are
+only one way.  If you prefer saying it some other way and the system
+doesn't understand you, email me and I'll enhance it to support the
+way you like to say things.  It is important that I adapt the skill to
+you rather than you learning how to say something!
+
+
+XXXX = you fill in the blank
+NN   = number you supply - a list item number - when you list contents, the 
+       app tells you the line numbers
+  
+
+From within Extra Abilities, you have the ability to set your email
+address if you wish.  The sole purpose of this is to email things you
+explicitly request.  For example, you may want Extra Abilities to email
+a copy of your list to you for printing.
+
+
+GLOBAL COMMANDS
+
+"How do I XXXX?"
+"Am I in Extra Abilities?"
+"What is Extra Abilities Website?"
+"My name is XXX"
+"Forget my name"
+"My email is XXXX"
+"What is my email address?"
+"Is my email address verified?"
+"Set my time zone"
+"What is my time zone?"
+"Exit"
+
+DEALING WITH LISTS
+
+"public" lists are those that are applicable to the entire family.
+"private" lits are those only applicable to the speaker.
+
+You can only create private lists of Alexa knows your voice and you
+tols Extra Abilities who you are.
+
+"Create list XXXX"
+"Rename list XXXX"
+"Delete list XXXX"
+"What lists do I have?"
+"What is on list XXXX?"
+"Add to list XXXX"
+"Add to the bottom of list XXXX"
+"Edit list XXXX"  -  goes to LIST EDIT mode for the selected list
+"Email list XXXX to me" - your email address must first be configured
+
+In LIST EDIT mode
+
+"back" - exit LIST EDIT mode
+"what list am I in"
+"rename list XXXX"
+"list" - list the contents of the list you're in
+"add XXXX" - defaults to the top of the list
+"add XXXX to the top of the list"
+"add XXXX to the bottom of the list"
+"change item NN"
+"change XXXX"
+"delete item NN"
+"delete XXXX"
+"move item NN"  -  allows you to move an item to the top or bottom of the list
+"move XXXX"     -  same
+"clear list"    -  remove all items from list
+
+DEALING WITH JOURNALS
+
+"Create journal XXXX"
+"What journals do I have?"
+"Rename journal XXXX"
+"Delete journal XXXX"
+
+"Add to journal XXXXX"
+   What should I add?
+   ...........
+   Do you have more to add?
+   
+
+THINGS WE'RE WORKING ON
+
+Password lists
+A journal facility
+and many more facilities in addition to lists!
+

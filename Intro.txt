@@ -1,0 +1,33 @@
+
+Extra Abilities is an Alexa skill designed to give Alexa extra abilities.
+
+Extra Abilities already provides Alexa with extra abilities described
+below.  However, we will be constantly adding new abilities to our
+Extra Abilities skill.
+
+To use Extra Abilities, simply say the following to your Alexa device:
+
+       "Alexa, enable Extra Abilities"
+       
+See our user manual on this web site.
+
+Right now, Extra Abilities provides the following facilities:
+
+Lists
+
+    Our list handling capability is a replacement for that already found
+    in Alexa.  Our facility provides the following additional functionality:
+    
+	* much smarter interface with lots of help - easier to use
+	
+	* ability to email your list to yourself (possibly for printing)
+	
+	* ability to re-order your list
+	
+	* ability to rename your list
+	
+	* ability to change an item on your list
+	
+	* ability to add new items at the beginning or end of the list
+	
+	* we have a manual (on this web site)

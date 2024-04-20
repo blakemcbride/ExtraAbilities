@@ -1,0 +1,8 @@
+#
+pushd src/main/application >/dev/null
+tar czf ../../../application.tar.gz *
+popd >/dev/null
+scp application.tar.gz  root@alexa2.arahant.com:
+rm application.tar.gz
+ssh root@alexa2.arahant.com ./install-app
+
