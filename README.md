@@ -25,6 +25,8 @@ complicated the code on my end since I had to do all the parsing.
 
 The version I am uploading is the final version in which I do all the parsing myself.
 
+The schema is defined in the file named ```schema.sql```
+
 This system was built on an old version of my Java-based KISS, open-source, full-stack web development framework
 (included herein).  The latest version (and in production) of KISS is available at
 [https://kissweb.org](https://kissweb.org) or [https://github.com/blakemcbride/Kiss](https://github.com/blakemcbride/Kiss)
