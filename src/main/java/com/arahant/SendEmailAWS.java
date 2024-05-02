@@ -85,7 +85,7 @@ public class SendEmailAWS implements AutoCloseable {
             " for <a href='https://www.java.com'>Java</a>.";
 
     public static void main(String[] args) throws Exception {
-        SendEmailAWS em = new SendEmailAWS("email-smtp.us-east-1.amazonaws.com", "AKIAJADABYZ7WHXJFXTQ", "AhNs13iGI525G2f4lulMFOaNUkYP90238CaDhBOqkv64");
+        SendEmailAWS em = new SendEmailAWS("email-smtp.us-east-1.amazonaws.com", "XXXXXXXXXXXXXXXXXXXX", "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX");
         em.addAttachement("/home/blake/Arahant/WP - Sales/Deep Dive Questions.pdf", "file1.pdf");
         em.addAttachement("/home/blake/Arahant/WP - Sales/Why_Arahant_2.pdf", "file2.pdf");
         em.setHTMLMessage(BODY);
